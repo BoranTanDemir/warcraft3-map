@@ -1,0 +1,66 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 2
+{
+Force 1
+}
+
+STRING 3
+// Units: O000 (The Messiah), Name (Name)
+{
+The Messiah
+}
+
+STRING 4
+{
+Just another Warcraft III map
+}
+
+STRING 5
+{
+Any
+}
+
+STRING 6
+{
+Nondescript
+}
+
+STRING 7
+{
+Unknown
+}
+
+STRING 8
+// Units: O000 (The Messiah), Propernames (Proper Names)
+{
+Omega
+}
+
+STRING 9
+// Abilities: A001 (Attack), Name (Name)
+{
+Attack
+}
+
+STRING 10
+// Abilities: A001 (Attack), EditorSuffix (Editor Suffix)
+{
+ (Omega)
+}
+
+STRING 11
+// Abilities: A001 (Attack), Ubertip (Tooltip - Normal - Extended)
+{
+Attack
+}
+
+STRING 12
+// Abilities: A001 (Attack), Tip (Tooltip - Normal)
+{
+Attack
+}
+
